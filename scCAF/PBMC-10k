@@ -1,14 +1,1 @@
-----------------------------------
-dataset       : PBMC-10k
-device        : cuda:0
-random seed   : 0
-alpha value : 0.1
-lambda1 value : 10
-lambda2 value : 0.1
-lambda3 value : 25
-k value       : 20
-hvalue       : 3
-fusion times:100
-learning rate : 1e-03
-----------------------------------
-Best_epoch,ARI,NMI,AMI,ACC
+
